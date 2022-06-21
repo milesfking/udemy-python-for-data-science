@@ -1,7 +1,7 @@
 # Python for Data Science and Machine Learning Bootcamp (25 Hours)
 Exercise and project notebooks from the "Python for Data Science and Machine Learning Bootcamp" on Udemy.
 
-### Content
+### Course Content
 Data Wrangling:
   - NumPy
   - Pandas

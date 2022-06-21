@@ -10,11 +10,11 @@ Data Visualization:
   - Matplotlib
   - Seaborn
 
-Regression
+Regression:
   - Linear regression
   - Logistic regression
 
-Machine Learning
+Machine Learning:
   - Scikit-learn
   - K nearest neighbors
   - Decision trees and random forests
@@ -23,6 +23,6 @@ Machine Learning
   - Principle component anaylsis
   - Natural language processing
 
-ANNs and Deep Learning
+ANNs and Deep Learning:
   - TensorFlow
   - Keras
